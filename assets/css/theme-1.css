@@ -43,6 +43,15 @@
     }
 }
 
+.custom-img {
+    object-fit: contain; /* Ensures the entire image is visible without being cropped */
+    width: 100%;
+    height: 200px; /* Adjust this height as needed */
+    display: block;
+    margin: 0 auto; /* Center the image if necessary */
+}
+
+
 body {
     margin: 0;
     font-family: var(--bs-font-sans-serif);
@@ -4857,7 +4866,6 @@ fieldset:disabled .btn {
 .card-body {
     flex: 1 1 auto;
     padding: 1rem 1rem
-    position: relative;
 }
 
 .card-title {
