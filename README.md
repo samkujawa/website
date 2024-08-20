@@ -10,7 +10,7 @@ Welcome to my portfolio website repository! This is the place where my professio
 
 🎯 What's Inside?
 
-This repo contains the source code for my portfolio website. With sleek design elements and dynamic elements, it's all here:
+This repo contains the source code for my portfolio website. With sleek design and dynamic elements:
 - Responsive Design: A modern, mobile-friendly layout with clean aesthetics.
 - Dynamic Content: Showcases my projects, work experiences, and skills.
 - Interactive Elements: Theme customization, skill progress bars, and more.
